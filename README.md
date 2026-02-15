@@ -61,7 +61,7 @@ This is a binary classification problem where the goal is to build machine learn
 ### Final Dataset Properties
 - **Training Set**: 3,415 samples (80%)
 - **Test Set**: 854 samples (20%)
-- **Total Features**: 13 (meets ≥12 requirement)
+- **Total Features**: 13
   - 9 original numerical features
   - 4 dummy variables from categorical encoding
 - **Feature Names**: no_of_dependents, income_annum, loan_amount, loan_term, cibil_score, residential_assets_value, commercial_assets_value, luxury_assets_value, bank_asset_value, education_Graduate, education_Not Graduate, self_employed_No, self_employed_Yes
