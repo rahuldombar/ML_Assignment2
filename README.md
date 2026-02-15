@@ -230,6 +230,6 @@ Additional features:
 
 ## Links
 
-- **GitHub Repository**: https://github.com/rahuldombar/ML_Assignment2/tree/main
+- **GitHub Repository**: https://github.com/rahuldombar/ML_Assignment2
 - **Live Streamlit App**: https://mlassignment2-bfbxvsz9swecmyieqhvuhj.streamlit.app/
 - **Dataset Source**: https://www.kaggle.com/datasets/vishavgupta01/loan-approval
