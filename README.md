@@ -144,7 +144,7 @@ Six classification models were implemented and evaluated on the loan approval da
 ```
 loan-approval-prediction/
 ├── README.md                           # This file
-├── ML_Assignment_2_Final.ipynb         # Training notebook with all models
+├── ML_Assignment_2.ipynb               # Training notebook with all models
 ├── app.py                              # Streamlit web application
 ├── requirements.txt                    # Python dependencies
 ├── loan_approval_dataset.csv           # Original dataset
@@ -153,41 +153,7 @@ loan-approval-prediction/
 └── loan_models_complete.pkl            # All 6 trained models + scaler
 ```
 
----
 
-## Installation & Usage
-
-### Prerequisites
-- Python 3.8 or higher
-- Jupyter Notebook
-- pip package manager
-
-### Setup Instructions
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/rahuldombar/ML_Assignment2
-cd loan-approval-prediction
-```
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the training notebook**
-```bash
-jupyter notebook ML_Assignment_2_Final.ipynb
-# Run all cells to train models and generate artifacts
-```
-
-4. **Launch Streamlit app**
-```bash
-streamlit run app.py
-# Opens at http://localhost:8501
-```
-
----
 
 ## Streamlit Application Features
 
