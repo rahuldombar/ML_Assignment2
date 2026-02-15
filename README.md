@@ -166,7 +166,7 @@ loan-approval-prediction/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/rahuldombar/ML_Assignment2/tree/main
+git clone https://github.com/rahuldombar/ML_Assignment2
 cd loan-approval-prediction
 ```
 
